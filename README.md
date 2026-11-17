@@ -2,6 +2,14 @@
 
 Free character LoRA mirrors from [Renderoverse](https://renderoverse.com/), with original author credit, usage notes and file checksums.
 
+## Inuzuka tsume - Naruto
+
+[Download the LoRA and usage notes](https://github.com/kruqond/renderoverse-loras/releases/tag/inuzuka-tsume-naruto-v1.0.0), or visit the [original Renderoverse release](https://renderoverse.com/model/inuzuka-tsume-naruto).
+
+Created by **NSFWstudio**. The free **1.0.0** file is unchanged; its release includes the original filename, trigger words, SHA-256 and source notice. Use it with an Illustrious-compatible SDXL checkpoint.
+
+The source lists its license as **Other**. This mirror does not relicense it: the Chichi MIT notice below does not apply to Tsume. See `SOURCE-NOTICE.txt` in the release for details. No preview images or image-quality evaluation are included.
+
 ## Chichi — Dragon Ball Z
 
 Created by **NSFWstudio**. The [original Renderoverse release](https://renderoverse.com/model/chichi-dragon-ball-z) provides the source listing, examples and version information.
