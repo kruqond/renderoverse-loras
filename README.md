@@ -2,7 +2,13 @@
 
 Free character LoRA mirrors from [Renderoverse](https://renderoverse.com/), with original author credit, usage notes and file checksums.
 
-## All nine LoRA releases
+## Browse the current LoRA catalog
+
+[Browse all Illustrious LoRAs on Renderoverse](https://renderoverse.com/?tag=illustrious) for previews, compatibility notes, and releases that aren’t mirrored here. You can browse without an account; downloads on Renderoverse require sign-in. The free GitHub mirrors are listed below.
+
+<a name="all-nine-lora-releases"></a>
+
+## Nine free GitHub mirrors
 
 These are adapters for compatible Illustrious/SDXL checkpoints, not standalone checkpoints. Each GitHub release has its own license or source notice, usage notes and file checksum. The original Renderoverse pages have previews and version details.
 
